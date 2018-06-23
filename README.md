@@ -1,3 +1,3 @@
-# dakota
+### Task 1
 
-asd
+to develop a rank predicting model from fifa dataset using linear regression.
