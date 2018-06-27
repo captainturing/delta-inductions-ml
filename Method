@@ -1,0 +1,3 @@
+Data was mined by changing the dates in years and replacing the confederations by their official weightage.
+Randomly selected 70% of the data was used to train the model.  
+Simple Linear Regression (normalization technique) model was used to train the data.
