@@ -1,3 +1,3 @@
-### Task 1
+### Delta-Inductions-ml
 
-to develop a rank predicting model from fifa dataset using linear regression.
+This repository contains files for Delta Inductions 2018
